@@ -48,16 +48,6 @@ TODO (Issues)
 Sample Code
 ---------------
 
-    /**
-     * To try this code you need to have your own API Access settings at:
-     * https://code.google.com/apis/console/
-     *
-     * Screenshot for settings:
-     * http://note.io/YWbDuP
-     * http://note.io/YWbjvY
-     *
-     * You also need a document named "Test" to try this code.
-     */
 
     session_start();
 
