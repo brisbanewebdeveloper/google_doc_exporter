@@ -125,7 +125,3 @@ Sample Code
     </body>
     </html>
 
-Getting the code
----------------
-The actual code has been no longer in the public repository. Contact via http://twitter.com/hironozu if you are interested.
-
