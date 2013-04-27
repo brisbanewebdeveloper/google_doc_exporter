@@ -48,7 +48,6 @@ TODO (Issues)
 Sample Code
 ---------------
 
-
     session_start();
 
     require_once 'google_doc_exporter.php';
